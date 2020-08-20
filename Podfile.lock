@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.6)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 414fe59e9b0b67831874d0a7bf0efea1a0dc369e
+
+COCOAPODS: 1.9.3
